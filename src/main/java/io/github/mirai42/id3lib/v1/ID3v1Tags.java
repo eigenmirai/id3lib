@@ -19,6 +19,7 @@ public class ID3v1Tags {
     private String album;
     private String year;
     private String comment;
+
     private int genre; // 1 byte song id
 
     /**
